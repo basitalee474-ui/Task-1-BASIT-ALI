@@ -1,0 +1,2 @@
+TotalGuessesMade=19
+TotalGamesPlayed=8
